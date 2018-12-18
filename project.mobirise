@@ -44,7 +44,7 @@
     "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "cookiesAlert": "Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus.",
+    "cookiesAlert": "Diese Website benutzt Cookies und Analyse Tools. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus.",
     "gdpr": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131191431-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-131191431-1');\r\n</script>"
   },
