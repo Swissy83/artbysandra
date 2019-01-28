@@ -53,7 +53,7 @@
     "handlettering.html": {
       "settings": {
         "meta_descr": "Handlettering-Kunstwerke: Die Kunst des Buchstaben-Zeichnens.",
-        "title": "Handlettering",
+        "title": "Handlettering - Art by Sandra",
         "order": 2
       },
       "components": [
@@ -797,7 +797,7 @@
     "acrylmalerei.html": {
       "settings": {
         "meta_descr": "Abstrakte Bilder und Karten mit Acrylfarbe",
-        "title": "Acrylmalerei",
+        "title": "Acrylmalerei  - Art by Sandra",
         "order": 3
       },
       "components": [
@@ -1632,7 +1632,7 @@
     "zeichnungen.html": {
       "settings": {
         "meta_descr": "Zeichnungen (Portraits, Tiere, Gebäude) mit Bleistift oder Kohle",
-        "title": "Zeichnungen",
+        "title": "Zeichnungen  - Art by Sandra",
         "order": 4
       },
       "components": [
@@ -2337,8 +2337,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Art by Sandra - Home",
-        "meta_descr": "\"Art by Sandra\" kreiert kreative Kunstwerke von Handlettering über Acrylmalerei bis zu Zeichnungen.",
+        "title": "Art by Sandra - Handlettering, Acrylmalerei & Zeichnungen",
+        "meta_descr": "Art by Sandra kreiert kreative Kunstwerke von Handlettering über Acrylmalerei bis zu Zeichnungen.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
